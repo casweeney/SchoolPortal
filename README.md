@@ -1,7 +1,7 @@
 # SchoolPortalKit
 ## Contact me for updated version @ casweeno2000@gmail.com
 
-Check out this version:
+##### Check out this version:
 1. Downlaod the files
 2. Import the sql file into your db
 3. Check the connection.php file which is in the includes directory(folder)
