@@ -1,4 +1,4 @@
-# SchoolPortal
+# SchoolPortalKit
 ## Contact me for updated version 
 
 ### A School Management Portal for Secondary and Primary Schools which processes result calculation to get students subject and class positions.
